@@ -1,4 +1,4 @@
-# data-science-refresher
+# Python Fundamentals - a refresher
 ### Activities in the notebooks:
 
 Day 1: Variables and the 'print' statement
