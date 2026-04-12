@@ -1,4 +1,4 @@
-# Python Fundamentals - a refresher
+# Python beginner to intermediate
 ### Activities in the notebooks:
 
 Day 1: Variables and the 'print' statement
