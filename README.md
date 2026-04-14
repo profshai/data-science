@@ -58,4 +58,7 @@ The project is organized as a series of Jupyter notebooks, each covering a key c
 
 ## 🛠️ Tools & Technologies
 - Python  
-- Jupyter Notebook  
+- Jupyter Notebook
+
+
+Credit: Angela Yu (Udemy Instructor)
